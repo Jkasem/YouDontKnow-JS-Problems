@@ -1,5 +1,6 @@
+"use strict";
+
 //Up & Going
-//CH1
   function oneOne() {
 
     const TAX_RATE = 0.08;
@@ -37,3 +38,8 @@
       );
     }
   }
+
+//Scope and Closures
+function twoOne() {
+
+}
